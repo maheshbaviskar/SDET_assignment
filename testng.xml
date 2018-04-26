@@ -1,0 +1,8 @@
+<suite name="Group of group Suite" verbose="1">
+  <test name="Group of group Test">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="test.java.com.training.SDET_Assignment.WebPages.Guru99_Page" />
+    </classes>
+  </test>
+</suite>

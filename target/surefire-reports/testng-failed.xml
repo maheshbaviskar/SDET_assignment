@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Group of group Suite]">
+  <test name="Group of group Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="test.java.com.training.SDET_Assignment.WebPages.Guru99_Page">
+        <methods>
+          <include name="edit_Customer"/>
+          <include name="create_Customer"/>
+          <include name="create_Account"/>
+          <include name="closeTests"/>
+          <include name="automationSetup"/>
+          <include name="customised_Statement"/>
+          <include name="generate_Login_password"/>
+        </methods>
+      </class> <!-- test.java.com.training.SDET_Assignment.WebPages.Guru99_Page -->
+    </classes>
+  </test> <!-- Group of group Test(failed) -->
+</suite> <!-- Failed suite [Group of group Suite] -->

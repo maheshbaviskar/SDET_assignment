@@ -1,0 +1,9 @@
+test\java\com\training\SDET_Assignment\TestCases\Create_Customer.class
+test\java\com\training\SDET_Assignment\TestCases\Generate_Loginpassword_Test.class
+test\java\com\training\SDET_Assignment\WebPages\CommonLib.class
+test\java\com\training\SDET_Assignment\TestCases\Edit_Customer.class
+test\java\com\training\SDET_Assignment\TestCases\Create_Account.class
+test\java\com\training\SDET_Assignment\WebPages\Excel_Readandwrite.class
+test\java\com\training\SDET_Assignment\WebPages\AutomationConstance.class
+test\java\com\training\SDET_Assignment\WebPages\Guru99_Page.class
+test\java\com\training\SDET_Assignment\TestCases\Customised_Statement.class
